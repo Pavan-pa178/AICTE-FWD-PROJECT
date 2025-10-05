@@ -63,7 +63,7 @@ if (form) {
     formMessage.textContent = '✅ Message sent successfully! Redirecting...';
     formMessage.style.color = 'green';
 
-    // Redirect to confirmation page after 1.5 seconds
+   
     setTimeout(() => {
       window.location.href = 'success.html';
     }, 1500);
@@ -71,3 +71,4 @@ if (form) {
     form.reset();
   });
 }
+
