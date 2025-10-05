@@ -11,7 +11,8 @@ A responsive, interactive portfolio website built with HTML, CSS, and JavaScript
 
 ```
 FWD — Interactive Digital Portfolio/  
-├── index.html  
+├── index.html
+├── success.html
 ├── style.css  
 ├── script.js  
 ├── pic.jpg  
